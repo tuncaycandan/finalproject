@@ -1,1 +1,1 @@
-
+ The CODE_OF_CONDUCT.md file outlines expectations for respectful and inclusive behavior within the project community. It emphasizes the importance of creating a welcoming environment for all contributors, regardless of their background. This document helps foster a positive and collaborative atmosphere, ensuring productive interactions among participants.  
