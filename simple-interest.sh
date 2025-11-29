@@ -1,2 +1,1 @@
-simple-interest.sh
-
+The simple-interest.sh file is a Bash script that calculates simple interest based on user inputs for principal, rate, and time. It demonstrates basic scripting skills and provides a practical example of automating financial calculations. The script is fully functional and includes comments to explain its logic and usage.
