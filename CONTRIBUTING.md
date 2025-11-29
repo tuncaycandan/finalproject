@@ -1,1 +1,1 @@
-CONTRIBUTING.md
+ The CONTRIBUTING.md file provides guidelines for contributing to the project, including steps for submitting pull requests, reporting issues, and following coding standards. It streamlines the contribution process and ensures consistency in collaborative efforts. Clear contribution guidelines encourage community involvement and maintain the project’s quality. 
