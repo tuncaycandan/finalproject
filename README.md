@@ -1,1 +1,1 @@
-# finalproject
+ The README.md file provides a comprehensive overview of the project, including its purpose, installation instructions, and usage examples. It serves as the primary documentation for users and contributors, helping them understand the project’s functionality and how to get started. A well-structured README enhances the project’s accessibility and usability.  
